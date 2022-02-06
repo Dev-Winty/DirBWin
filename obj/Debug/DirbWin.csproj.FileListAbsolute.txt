@@ -1,0 +1,17 @@
+C:\Users\Winty\source\repos\DirbWin\bin\Debug\DirbWin.exe.config
+C:\Users\Winty\source\repos\DirbWin\bin\Debug\DirbWin.exe
+C:\Users\Winty\source\repos\DirbWin\bin\Debug\DirbWin.pdb
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin.csproj.AssemblyReference.cache
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\View\MainView.g.cs
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\App.g.cs
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin_MarkupCompile.cache
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\View\MainView.baml
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin.g.resources
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin.Properties.Resources.resources
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin.csproj.GenerateResource.cache
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin.csproj.CoreCompileInputs.cache
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin.exe
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin.pdb
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\DirbWin_MarkupCompile.lref
+C:\Users\Winty\source\repos\DirbWin\obj\Debug\GeneratedInternalTypeHelper.g.cs
