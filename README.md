@@ -26,7 +26,7 @@ DirBuster 윈도우 버전
 --------------
 
 - #### 1. 속도가 너무 빠르다
-	- 요청 간의 딜레이가 없기 때문에 IDS에 패킷 발생량 기반 탐지 룰이 설정돼 있을 경우 패킷이 Drop될 수 있다 <br/>에시: drop tcp any any -> myServer 80 (msg:"dirb"; threshold type both, track by_src, count 10, seconds 1; sid:100000001)
+	- 요청 간의 딜레이가 없기 때문에 IDS에 패킷 발생량 기반 탐지 룰이 설정돼 있을 경우 패킷이 Drop될 수 있다 <br/>에시: drop tcp any any -> any 80 (msg:"dirb"; threshold type both, track by_src, count 10, seconds 1; sid:100000001)
 	
 ### 5. 스크린샷
 
